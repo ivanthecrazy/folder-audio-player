@@ -17,6 +17,7 @@ A simple folder-based audio player built with GTK4 and GStreamer.
 - GTK 4.0+
 - GStreamer 1.0+
 - PyGObject
+- mutagen
 
 ## Installation
 
