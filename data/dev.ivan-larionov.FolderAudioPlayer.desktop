@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Folder Audio Player
+Comment=A simple folder-based audio player
+Exec=folder-audio-player
+Icon=dev.ivan-larionov.FolderAudioPlayer
+Terminal=false
+Categories=AudioVideo;Audio;Player;GTK;
+Keywords=Audio;Music;Player;MP3;
+StartupNotify=true
